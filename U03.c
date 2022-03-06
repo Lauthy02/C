@@ -1,3 +1,4 @@
+//U3. Desarrollar un programa que permita ingresar su nombre y visualizar por pantalla un saludo que exprese “Buen día” más el nombre ingresado.
 #include <stdio.h>
 #include <locale.h>
 
