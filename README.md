@@ -1,5 +1,7 @@
 # C
------Acá dejaré todos los programas en el lenguaje C que hice en este tiempo junto a los ejercicios.-----
+----- Acá dejaré todas las consignas de los programas. -----
+--- Estos programas fueron escritos en CodeBlocks, en la versión 20.03 ---
+--- CodeBlocs: https://www.codeblocks.org ---
 
 U1.	Desarrollar un programa que permita ingresar un número y visualizarlo por pantalla.
 
@@ -43,7 +45,7 @@ U20.	En un hospital existen 3 áreas: Urgencias, Pediatría y Traumatología. El
 Área	            Presupuesto
 Urgencias	        37%
 Pediatría	        42%
-Traumatología	    21%
+Traumatología	    	21%
 Si el usuario ingresa el presupuesto anual, mostrar cuánto dinero le corresponde a cada área. 
 
 U21.	Ídem al anterior pero el usuario ingresa el porcentaje de cada área. También nos solicitan que se observe en la pantalla los porcentajes ingresados. 
@@ -196,17 +198,17 @@ U94.	Desarrollar un programa que permita ingresar la hora actual en el formato d
 
 U95.	Desarrollar un programa que permita ingresar el día y mes de nacimiento de una persona y muestre en pantalla a que signo pertenece. 
 
-SIGNO	FECHA
+SIGNO		FECHA
 Capricornio	Del 22 de noviembre a 20 de enero
-Acuario	Del 21 de enero a 19 de febrero
-Piscis	Del 20 de febrero al 20 de marzo
-Aries	Del 21 de marzo al 19 de abril
-Tauro	Del 20 de abril al 20 de mayo
-Géminis	Del 21 de mayo al 21 de junio
-Cáncer	Del 22 de junio al 21 de julio
-Leo	Del 22 de julio al 21 de agosto
-Virgo	Del 22 de agosto al 22 de septiembre
-Libra	Del 23 de septiembre al 22 de octubre
+Acuario		Del 21 de enero a 19 de febrero
+Piscis		Del 20 de febrero al 20 de marzo
+Aries		Del 21 de marzo al 19 de abril
+Tauro		Del 20 de abril al 20 de mayo
+Géminis		Del 21 de mayo al 21 de junio
+Cáncer		Del 22 de junio al 21 de julio
+Leo		Del 22 de julio al 21 de agosto
+Virgo		Del 22 de agosto al 22 de septiembre
+Libra		Del 23 de septiembre al 22 de octubre
 Escorpio	Del 23 de octubre al 21 de noviembre
 Sagitario	Del 22 de noviembre a 21 de diciembre
 
@@ -279,12 +281,12 @@ U124.	Desarrollar un programa que lea una matriz de “n1” filas por “n2” 
 
 U125.	Desarrollar un programa que lea un matriz de enteros de 3 filas por 4 columnas y muestre por pantalla la traspuesta a dicha matriz. 
 Ejemplo:
-	Entrada: 
-
+Entrada: 
 
 2	3	4	5
 6	7	8	9
 10	11	12	13
+
 Salida:
 	
 2	6	10
@@ -346,6 +348,7 @@ d.	Calcular el promedio de todas las notas.
 e.	Calcular el promedio de las notas menores de 5.
 f.	Mostrar el alumno que mejor notas ha sacado. 
 g.	Mostrar el alumno que peor notas ha sacado. 
+
 U148.	Desarrollar un programa que administre las notas que un alumno obtuvo durante un cuatrimestre para la asignatura de programación. La cantidad de notas obtenidas puede ser cualquiera. La cantidad de alumnos en la clase es de 10 alumnos de los cuales sabemos el legajo, el nombre, el apellido y la nota. debe brindar la siguiente funcionalidad: 
 a.	Buscar un alumno por legajo. 
 b.	Buscar alumnos por apellido (si hay más de uno mostrarlos a todos). 
@@ -368,7 +371,7 @@ U153.	Escribir un programa que, mediante una función, calcule el resultado de r
 U154.	Escribir un programa que, utilizando funciones con parámetros, lea desde el teclado las unidades y el precio que quiere comprar, y en función de las unidades introducidas le haga un descuento o no (cuando las unidades excedan media docena se aplicará 4% y el 10% cuando excedan la docena). 
 
 U155.	Desarrollar un programa que considerando los siguientes polinomios calcule los valores de X, Y, Z, W. Mostrar los valores de X, Y, Z y W en el rango de −10 ≤ x ≤ +10 en intervalos de 0.1 en 0.1.
- (X la reemplazo por G)
+(X la reemplazo por G)
 (Lo hice en intervalos de 1 en 1)
  
 U156.	Desarrollar un programa que permita ingresar un número entero y obtenga mediante el uso de una función el número Fibonacci más próximo al valor ingresado ya sea en defecto o exceso.  
