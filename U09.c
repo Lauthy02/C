@@ -1,3 +1,4 @@
+//U9. Desarrollar un programa que permita ingresar un número y muestre en pantalla el resultado de calcular la raíz cuadrada de número ingresado.
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
