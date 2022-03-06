@@ -4,10 +4,10 @@
 int main()
 {
     setlocale(LC_ALL,"spanish");
-    char caracter;
-    printf("Ingrese un caracter. ");
-    caracter=getchar();
-    printf("El caracter que escribió es: %c \n\n",caracter);
+    int a;
+    printf("Ingrese un número entero. ");
+    scanf("%i",&a);
+    printf("El número entero que escribió es: %i \n",a);
     system("pause");
     return 0;
 }
