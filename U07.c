@@ -1,3 +1,4 @@
+//U7. Desarrollar un programa que permita ingresar dos números y muestre en pantalla la multiplicación de ambos.
 #include <stdio.h>
 #include <locale.h>
 
