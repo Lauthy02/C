@@ -1,3 +1,4 @@
+//U6. Desarrollar un programa que permita ingresar dos números y muestre en pantalla la división de ambos.
 #include <stdio.h>
 #include <locale.h>
 
