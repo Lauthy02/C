@@ -1,3 +1,4 @@
+//U2. Desarrollar un programa que permita ingresar un carácter y visualizarla por pantalla.
 #include <stdio.h>
 #include <locale.h>
 
