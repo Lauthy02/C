@@ -1,3 +1,4 @@
+//U8. Desarrollar un programa que permita ingresar dos números y muestre en pantalla el resultado de elevar el primer número a la potencia representada por el segundo.
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
