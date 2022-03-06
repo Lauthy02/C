@@ -1,3 +1,4 @@
+//U10. Desarrollar un programa que permita ingresar una cantidad que represente los kilos de pan comprados y muestre por pantalla cuál sería su equivalente en gramos.
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
