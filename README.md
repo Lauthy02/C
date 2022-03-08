@@ -1,5 +1,5 @@
 # C
------ Acá dejaré todas las consignas de los programas. -----
+----- Acá están todas las consignas de los programas. ----- \n
 --- Estos programas fueron escritos en CodeBlocks, en la versión 20.03 ---
 --- CodeBlocs: https://www.codeblocks.org ---
 
