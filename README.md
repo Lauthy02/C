@@ -5,12 +5,6 @@
 
 --- CodeBlocs: https://www.codeblocks.org ---
 
-
-<body>
-	Holaaa
-	asda
-<body>
-
 U1.	Desarrollar un programa que permita ingresar un número y visualizarlo por pantalla.
 
 U2.	Desarrollar un programa que permita ingresar un carácter y visualizarla por pantalla. 
