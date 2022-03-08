@@ -1,7 +1,15 @@
 # C
------ Acá están todas las consignas de los programas. ----- \n
+----- Acá están todas las consignas de los programas. ----- 
+
 --- Estos programas fueron escritos en CodeBlocks, en la versión 20.03 ---
+
 --- CodeBlocs: https://www.codeblocks.org ---
+
+
+<body>
+	Holaaa
+	asda
+<body>
 
 U1.	Desarrollar un programa que permita ingresar un número y visualizarlo por pantalla.
 
