@@ -134,7 +134,7 @@ U76.	Desarrollar un programa que permita ingresar la temperatura que posee el ag
 
 U77.	Desarrollar un programa que permita ingresar un año y determinar si es bisiesto. Un año es bisiesto si es divisible por 4 y no lo es por 100, o si es divisible por 400. 
  
-U78.	Desarrollar un programa que permita ingresar la nota de un alumno (numérica) y mostrar un mensaje diciendo si su situación es insuficiente, aprobado, notable o sobresaliente. La nota deberá oscilar entre 1 y 10. Mostrar un mensaje si la nota ingresada se encuentra fuera de rango. La escala es de 1 a 3 Insuficiente, de 4 a 6 aprobado, de 7 a 9 notable y 10 sobresaliente. Este programa debe hacerse de tres maneras diferentes, utilizando if secuenciales, if-else anidados y switch. 
+U78.	Desarrollar un programa que permita ingresar la nota de un alumno (numérica) y mostrar un mensaje diciendo si su situación es insuficiente, aprobado, notable o sobresaliente. La nota deberá oscilar entre 1 y 10. Mostrar un mensaje si la nota ingresada se encuentra fuera de rango. La escala es de 1 a 3 Insuficiente, de 4 a 6 aprobado, de 7 a 9 notable y 10 sobresaliente. Este programa debe hacerse de tres maneras diferentes, utilizando if secuenciales, if-else anidados y switch. NO REALIZADO 
 
 U79.	Desarrollar un programa que permita ingresar un mes (número) y mostrar el nombre del mes. 
  
