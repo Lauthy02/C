@@ -138,9 +138,10 @@ U78.	Desarrollar un programa que permita ingresar la nota de un alumno (numéric
 
 U79.	Desarrollar un programa que permita ingresar un mes (número) y mostrar el nombre del mes. 
  
-U80.	Desarrollar un programa que permita ingresar la inicial del día de la semana. La inicial está compuesta de dos caracteres para cada día (LU, MA, MI, JU, VI, SA, DO). Mostrar el nombre del día completo. 
+U80.	Desarrollar un programa que permita ingresar la inicial del día de la semana. La inicial está compuesta de dos caracteres para cada día (LU, MA, MI, JU, VI, SA, DO). Mostrar el nombre del día completo. NO REALIZADO
 
-U81.	Desarrollar un programa que permita ingresar la inicial del día de la semana. La inicial está compuesta de dos caracteres para cada día (LU o lu, Ma o ma, MI o mi, JU o ju, VI o vi, SA o sa, DO o do). Mostrar el nombre del día completo.  
+U81.	Desarrollar un programa que permita ingresar la inicial del día de la semana. La inicial está compuesta de dos caracteres para cada día (LU o lu, Ma o ma, MI o mi, JU o ju, VI o vi, SA o sa, DO o do). Mostrar el nombre del día completo. NO REALIZADO
+
 U82.	Desarrollar un programa que permita ingresar una fecha (dd/mm/aaaa) y comprobar si es correcta. Para que una fecha sea correcta es necesario: 
 a.	Que el mes esté entre 1 y 12. 
 b.	Dependiendo del mes que sea, el día debe estar dentro de los límites válidos. Los meses que tienen 31 días son 1, 3, 5, 7, 8, 10 y 12. Los meses de 30 días son 4, 6, 9 y 11. El mes de 28 días es 2.
