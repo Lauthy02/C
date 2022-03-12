@@ -118,13 +118,13 @@ U68.	Desarrollar un programa que permita ingresar un valor entero al usuario y d
 
 U69.	Desarrollar un programa que permita ingresar un valor, si el valor es positivo, pedir un segundo valor y calcular la suma, resta y producto de ambos. Mostrar los resultados por pantalla. 
 
-U70.	Desarrollar un programa que permita ingresar dos números enteros y mostrarlos por pantalla de mayor a menor. HECHO
+U70.	Desarrollar un programa que permita ingresar dos números enteros y mostrarlos por pantalla de mayor a menor.
 
-U71.	Desarrollar un programa que permita ingresar dos números enteros y mostrarlos por pantalla de menor a mayor. HECHO
+U71.	Desarrollar un programa que permita ingresar dos números enteros y mostrarlos por pantalla de menor a mayor.
 
-U72.	Desarrollar un programa que permita ingresar tres números enteros y mostrarlos por pantalla de mayor a menor. HECHO
+U72.	Desarrollar un programa que permita ingresar tres números enteros y mostrarlos por pantalla de mayor a menor.
  
-U73.	Desarrollar un programa que permita ingresar tres números enteros y mostrarlos por pantalla de menor a mayor. HECHO
+U73.	Desarrollar un programa que permita ingresar tres números enteros y mostrarlos por pantalla de menor a mayor.
  
 U74.	Desarrollar un programa que permita ingresar cuatro números enteros y mostrarlos por pantalla de mayor a menor. 
 
